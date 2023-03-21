@@ -23,14 +23,8 @@ Here are the technologies used in this project.
   - Tailwind  
   - React
 
-* To create and build your database accord of the project.
-  - rake db:create db:migrate
-  
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
-  
 * To install the gems.
-  - bundle install
+  - npm install
   
 * To run the project.
   - npm start
