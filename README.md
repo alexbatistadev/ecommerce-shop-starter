@@ -24,7 +24,9 @@ Here are the technologies used in this project.
   - React
 
 * To install the gems.
-  - npm install
+  ````
+  npm install
+  ````
   
 * To run the project.
   ````
