@@ -27,7 +27,7 @@ Here are the technologies used in this project.
   - npm install
   
 * To run the project.
-  - npm start
+  ````npm start````
 
 ## How to use
 
