@@ -59,8 +59,8 @@ The main features of the application are:
  - Remove all products from cart or just one.
 
 
-## Links
-  - Repository: [https://ecommerce-shop-starter.vercel.app/]
+# Links
+  - Link Page: [https://ecommerce-shop-starter.vercel.app/]
     - In case of sensitive bugs like security vulnerabilities, please contact
       alexbatistadsg@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
