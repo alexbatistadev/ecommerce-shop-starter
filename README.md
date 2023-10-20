@@ -16,6 +16,7 @@ Here are the technologies used in this project.
 ## Services Used
 
 * Github
+* Vercel (Hospedagem)
 
 ## Getting started
 
